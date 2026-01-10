@@ -74,7 +74,9 @@ let nivelRanking = calcularRanking(quantidadeDeVitorias, quantidadeDeDerrotas);
 
 ///Exibição dos resultados
 console.log("Histórico de partidas: " + historicoDePartidas);
+console.log("------------------------------");
 console.log("Quantidade de vitórias: " + quantidadeDeVitorias);
+console.log
 console.log("Quantidade de derrotas: " + quantidadeDeDerrotas);
 
 ///Exibição do saldo de vitórias e nível de ranking
